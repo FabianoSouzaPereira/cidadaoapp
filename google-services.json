@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516628782760",
+    "project_id": "cidadaoapp-879f7",
+    "storage_bucket": "cidadaoapp-879f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516628782760:android:3b6da14c14200f6a56ac9d",
+        "android_client_info": {
+          "package_name": "br.com.fabianospdev.cidadaoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516628782760-oghffm44pspemhuf649ma02rg3q1ajcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg1Y5B0qqR3VvaNSLfszdqw66kpLem9KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516628782760-oghffm44pspemhuf649ma02rg3q1ajcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
