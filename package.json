@@ -32,9 +32,9 @@
     "@types/react-dom": "^17.0.0",
     "@types/react-native": "^0.63.43",
     "@types/react-redux": "^7.1.15",
-    "babel-jest": "~25.2.6",
-    "jest": "~25.2.6",
-    "react-test-renderer": "~16.13.1",
+    "babel-jest": "~25.6.3",
+    "jest": "~25.6.3",
+    "react-test-renderer": "~17.0.1",
     "typescript": "^4.1.3"
   },
   "jest": {
